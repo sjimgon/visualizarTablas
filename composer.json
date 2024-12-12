@@ -1,0 +1,17 @@
+{
+    "name": "sergio/imprimir-tabla",
+    "require": {
+        "dompdf/dompdf": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sergio\\ImprimirTabla\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sjimgon",
+            "email": "sjimgon430@g.educaand.es"
+        }
+    ]
+}
